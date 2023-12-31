@@ -37,4 +37,4 @@ Step 3: To run this system
 
 ## To watch the demo click on the below link
 
-[Demo File](https://drive.google.com/file/d/1KmHKwjHLWjHVa67wA1TuH7m7Wmj2EFfI/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1KmHKwjHLWjHVa67wA1TuH7m7Wmj2EFfI/view?usp=sharing)
