@@ -25,7 +25,8 @@ Make sure you have the following installed:
 
 ### Installation
 
-Step 1: Clone the repository to your local machine:
+Step 1: Clone the repository to your local machine
+
 Step 2: To add additional dependencies
 
     - npm i
