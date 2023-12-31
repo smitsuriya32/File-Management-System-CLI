@@ -25,6 +25,11 @@ Make sure you have the following installed:
 
 ### Installation
 
-Step 1: - Clone the repository to your local machine:
-Step 2: - npm i - [To add additional dependencies]
-Step 3: - node ./src/cli.js -[To run this system]
+Step 1: Clone the repository to your local machine:
+Step 2: To add additional dependencies
+
+    - npm i
+
+Step 3: To run this system
+
+    - node ./src/cli.js
