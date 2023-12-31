@@ -21,7 +21,7 @@ This Command Line Interface (CLI) File Management System allows users to perform
 
 Make sure you have the following installed:
 
-    - Node.JS runtime
+- **Node.JS runtime**
 
 ### Installation
 
